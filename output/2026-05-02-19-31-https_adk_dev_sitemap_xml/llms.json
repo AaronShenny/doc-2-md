@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Agent Development Kit (ADK)",
+    "summary": "ADK is an open-source framework for building, debugging, and deploying enterprise-ready AI agents in Python, TypeScript, Go, and Java, featuring robust context management and scalable deployment.",
+    "keywords": [
+      "ADK",
+      "AI Agents",
+      "Framework",
+      "Enterprise",
+      "Development"
+    ],
+    "raw_file_location": "2026-05-02-19-31-https_adk_dev_sitemap_xml/docs/before_agent_agent_development_kit_adk__agent_development_kit_adk",
+    "file_location": "2026-05-02-19-31-https_adk_dev_sitemap_xml/docs/agent_development_kit_adk",
+    "source_url": "https://adk.dev/"
+  },
+  {
+    "title": "Release Notes - Agent Development Kit (ADK)",
+    "summary": "This document provides links to the official release notes for the Agent Development Kit (ADK) across supported programming languages.",
+    "keywords": [
+      "ADK",
+      "release notes",
+      "development kit",
+      "Python",
+      "TypeScript",
+      "Go",
+      "Java"
+    ],
+    "raw_file_location": "2026-05-02-19-31-https_adk_dev_sitemap_xml/docs/before_agent_release_notes__agent_development_kit_adk",
+    "file_location": "2026-05-02-19-31-https_adk_dev_sitemap_xml/docs/release_notes__agent_development_kit_adk",
+    "source_url": "https://adk.dev/release-notes/"
+  }
+]
