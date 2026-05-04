@@ -1,5 +1,13 @@
 # doc-2-md
 
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-AI%20Powered-4285F4?style=flat&logo=google&logoColor=white)](https://aistudio.google.com/)
+[![Google ADK](https://img.shields.io/badge/Google%20ADK-1.32.0-34A853?style=flat&logo=google&logoColor=white)](https://pypi.org/project/google-adk/)
+[![Markdownify](https://img.shields.io/badge/markdownify-1.2.2-000000?style=flat&logo=markdown&logoColor=white)](https://pypi.org/project/markdownify/)
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-4.10.0-59666C?style=flat)](https://pypi.org/project/beautifulsoup4/)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/AaronShenny/doc-2-md/pulls)
+
 > **Bulk-convert any documentation website into clean, AI-polished Markdown files — ready for LLM ingestion or offline reading.**
 
 `doc-2-md` takes a `sitemap.xml` URL, fetches every documentation page listed in it, converts the raw HTML to Markdown, and then passes each page through a Google Gemini AI agent that strips UI chrome, fixes formatting, and generates structured metadata. The final outputs are a collection of clean `.md` files and a `llms.json` index that describes every page with title, summary, and keywords.
